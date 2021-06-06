@@ -1,2 +1,2 @@
-const ethAddress = '0x435fb36DE6a426ECf92a80Efa31C44a95f574fb4';
-const bnbAddress = '0x435fb36DE6a426ECf92a80Efa31C44a95f574fb4';
+const ethAddress = '0xa2635Ae1C09dF134c8e2B8Cc8b2Bb689E46B7936';
+const bnbAddress = '0xa2635Ae1C09dF134c8e2B8Cc8b2Bb689E46B7936';
