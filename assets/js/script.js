@@ -1,7 +1,7 @@
 const app = angular.module('myApp', []);
 app.controller('myCtrl', async function($scope) {
 	$scope.init = function() {
-		$scope.contractAddress = '0x926059ed2ee840b6ea57bf78d8461e8c0d6d251a';
+		$scope.contractAddress = '0xD50f3900B047f38eB6eBc946142A3C652BCc4240';
 		$scope.processing = false;
 		$scope.ethDeposited = false;
 		$scope.formStep = 1;
